@@ -12,6 +12,9 @@ As an avid listener of the BiggerPockets podcast, I wanted to utilize my new dat
 - Vacancy
 - Crime Rates
 
+## Visualization
+https://public.tableau.com/app/profile/michael.vasquez1929/viz/MoCoInvestmentAreas/Sheet1?publish=yes
+
 ## Data Sources
 - https://data.montgomerycountymd.gov
 - Census.gov
