@@ -12,12 +12,18 @@ As an avid listener of the BiggerPockets podcast, I wanted to utilize my new dat
 - Vacancy
 - Crime Rates
 
+## Analysis
+
+
 ## Visualization
 https://public.tableau.com/app/profile/michael.vasquez1929/viz/MoCoInvestmentAreas/Sheet1?publish=yes
 
 ## Data Sources
-- https://data.montgomerycountymd.gov
-- Census.gov
+- https://www.census.gov/data/developers/data-sets/acs-5year.html
+- https://www.data.montgomerycountymd.gov 
+- https://opendata.maryland.gov/
+- https://www.greatschools.org/
+- https://maryland.hometownlocator.com/zip-codes/countyzips,scfips,24031,c,montgomery.cfm
 
-## Reference
+## Bigger Pockets Reference
 - https://www.biggerpockets.com/blog/real-estate-property-class
