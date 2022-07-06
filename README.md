@@ -5,12 +5,14 @@ As an avid listener of the BiggerPockets podcast, I wanted to utilize my new dat
 
 ## Neighborhood Rank Factors
 - New Building Construction
-- Stores in Area
+- Food Locations in Area
 - Great Schools
 - Real Estate Prices
 - Income
 - Vacancy
 - Crime Rates
+
+New building constructions, crime rates, and food locations in the area were gathered from the datasets posted in datamontgomery. Real estate prices were gathered from the department of assessment and taxation posted in opendata Maryland. Median income information was gathered using Census API. Great schools were determined by utilizing the greatschool.org API to aquire their ratings. Home vacancy rates in Montgomery County was not analyzed in this project due to being unable to find a data source for the metric. 
 
 ## Analysis
 - Out of the 518 schools in Montgomery County, 214 have received a rating form greatschools.org. The median school rating for Montgomery County schools is 6 excluding schools who do not have a rating.
