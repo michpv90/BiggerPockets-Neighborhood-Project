@@ -13,7 +13,7 @@ As an avid listener of the BiggerPockets podcast, I wanted to utilize my new dat
 - Crime Rates
 
 ## Analysis
-- Out of the 518 schools in Moco, 214 have received a rank form greatschools.com. The median school rating for Montgomery County schools is 6 excluding schools who do not have a rating.
+- Out of the 518 schools in Montgomery County, 214 have received a rating form greatschools.org. The median school rating for Montgomery County schools is 6 excluding schools who do not have a rating.
 - A majority of neighborhoods classified as A are located in the western section of the county.
 - Average median income in Montgomery County aquired through the census is $125.359.90.
 - Crime Againist property is the highest type of crime reported in the county.
